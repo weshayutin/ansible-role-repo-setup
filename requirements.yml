@@ -1,0 +1,8 @@
+- src: git+https://github.com/openstack/tripleo-quickstart-extras.git
+  version: v1.0.0
+  path: roles/extras-common
+
+- src: git+https://github.com/openstack/tripleo-quickstart.git
+  version: v1.0.0
+  path: roles/common
+
